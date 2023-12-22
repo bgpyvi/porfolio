@@ -29,6 +29,7 @@ Esto se puede hacer de muchas maneras – diapositivas, presentaciones en video,
 - El proyecto será individual.
 - Se realizarán durantes las vacaciones con entrega el día 11 de enero
 - La entrega será via Slack con el link del deploy.
+- El proyecto NO SE DEBE REALIZAR EN EL REPOSITORIO DE CLASSROOM, SINO SE DEBERÁ CREAR EN UNO PROPIO.
 
 ## Modalidades de Evaluación
 - La evaluación se realizará mediante comentarios orales el día de la presentación.
